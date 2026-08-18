@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.idea/
+.vscode/
+*.db
+*.log
+coverage.xml
+.pytest_cache/
+
+# Private research and operational material must never be added to this repository.
+private/
+raw-data/
+screenshots/
+*.xlsx
+*.pdf
+*.docx

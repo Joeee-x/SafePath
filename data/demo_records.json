@@ -1,0 +1,53 @@
+{
+  "data_classification": "synthetic_demo_only",
+  "records": [
+    {
+      "record_id": "DEMO-001",
+      "label": "Example Community Route A",
+      "city": "Harbor City",
+      "district": "North",
+      "service_type": "planned",
+      "channel_type": "community_route",
+      "observed_cost": 320,
+      "record_status": "usable",
+      "verification_level": "demo_verified",
+      "last_reviewed": "2026-01-15"
+    },
+    {
+      "record_id": "DEMO-002",
+      "label": "Example Clinic Route B",
+      "city": "Harbor City",
+      "district": "Central",
+      "service_type": "planned",
+      "channel_type": "clinic",
+      "observed_cost": 360,
+      "record_status": "usable",
+      "verification_level": "demo_verified",
+      "last_reviewed": "2026-01-15"
+    },
+    {
+      "record_id": "DEMO-003",
+      "label": "Example Urgent Route C",
+      "city": "Harbor City",
+      "district": "Central",
+      "service_type": "urgent",
+      "channel_type": "clinic",
+      "observed_cost": 910,
+      "record_status": "needs_review",
+      "verification_level": "demo_pending",
+      "last_reviewed": "2026-01-15"
+    },
+    {
+      "record_id": "DEMO-004",
+      "label": "Example Remote Route D",
+      "city": "Lake City",
+      "district": "Remote",
+      "service_type": "planned",
+      "channel_type": "online_route",
+      "observed_cost": 300,
+      "record_status": "usable",
+      "verification_level": "demo_verified",
+      "last_reviewed": "2026-01-15"
+    }
+  ]
+}
