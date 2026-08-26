@@ -1,3 +1,4 @@
+<img width="430" height="430" alt="a97061ae6de67eb53cb0e1cd4668b236" src="https://github.com/user-attachments/assets/511f8c7e-85f9-44b1-971e-c9a492e02ec1" />
 # SafePath Portfolio Edition
 
 [中文](#中文说明) | [English](#english)
