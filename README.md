@@ -65,5 +65,6 @@ SafePath 是一个“服务可及性导航”产品案例：面向信息分散�
 
 原创项目的完整实现和真实运营材料仅在私有环境中保存。
 
-以下是小程序码
+## 以下是小程序码：
+
 <img width="430" height="430" alt="a97061ae6de67eb53cb0e1cd4668b236" src="https://github.com/user-attachments/assets/511f8c7e-85f9-44b1-971e-c9a492e02ec1" />
